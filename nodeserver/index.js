@@ -37,9 +37,9 @@ var options = { url: 'google.com', include: true };
 
 app.listen(app.get('port'), function() {
 
-  curl.request(options, function (err, data) {
-    console.log(data);
-  });
+  // curl.request(options, function (err, data) {
+  //   console.log(data);
+  // });
 
   console.log('app running on port', app.get('port'));
 });
