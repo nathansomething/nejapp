@@ -1,0 +1,16 @@
+@import '../../sass_partials/colors';
+
+section {
+  border: 1px solid $border_color;
+  border-radius: 20px;
+  width: 500px;
+  float: left;
+  margin: 35px;
+  padding: 10px;
+  background-color: $background_color_component;
+
+  h1 {
+    text-align: center;
+  }
+
+}

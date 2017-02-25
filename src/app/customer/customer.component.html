@@ -1,9 +1,8 @@
-<section>
-  <h1>Client</h1>
-  <div>
-    <img src="">
+<box-view title="Client Information" *ngIf="customer">
+  <div class="img-container">
+    <img [src]='customer.img_url'>
   </div>
-  <div *ngIf="customer">
+  <div class="text-container">
     <h3>Account Holder (ID#)</h3>
     <ul>
       <li>Name: {{customer.legal_name}}</li>
@@ -16,4 +15,6 @@
       <li>Dependents: {{customer.dependants}}</li>
     </ul>
   </div>
-</section>
+</box-view>
+<box-view title="Financial Information" *ngIf="account">
+</box-view>

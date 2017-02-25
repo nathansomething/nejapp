@@ -1,5 +1,19 @@
 @import '../../sass_partials/colors';
 
-section {
-  border: 1px solid $border_color;
+div {
+
+  &.img-container {
+    float: left;
+  }
+
+  &.text-container {
+    float: right;
+  }
+
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    border: 1px solid $border_color;
+  }
 }
