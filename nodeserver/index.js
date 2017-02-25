@@ -31,6 +31,15 @@ app.use(function(req, res, next){
 //    res.sendFile('index.html', { root: __dirname + '/' });
 //});
 
+var curl = require('curlrequest');
+var options = { url: 'google.com', include: true };
+
+
 app.listen(app.get('port'), function() {
-    console.log('app running on port', app.get('port'));
+
+  curl.request(options, function (err, data) {
+    console.log(data);
+  });
+
+  console.log('app running on port', app.get('port'));
 });
