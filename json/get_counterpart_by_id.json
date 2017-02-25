@@ -1,0 +1,379 @@
+{
+  "other_accounts": [
+    {
+      "id": "5893b008-14cf-48a5-bbf1-246eff269e26",
+      "holder": {
+        "name": "Comcast",
+        "is_alias": false
+      },
+      "number": null,
+      "kind": null,
+      "IBAN": null,
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": null
+      },
+      "metadata": {
+        "public_alias": "ALIAS_DEDD7E",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "89bd161a-2a91-4d2a-9599-734d3a5d21cb",
+      "holder": {
+        "name": "Comcast",
+        "is_alias": false
+      },
+      "number": null,
+      "kind": null,
+      "IBAN": null,
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": null
+      },
+      "metadata": {
+        "public_alias": null,
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "834e90a9-f32f-47dc-bca8-e23cb299957a",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "5600601326",
+      "kind": "checking",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 978",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The TD Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_7076FE",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "07d19df0-c283-4846-85ed-8124a35ca3e8",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "5600601363",
+      "kind": "checking",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 1010",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The TD Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_4055B0",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "896f3ca2-5774-459b-b3bb-453f4c2213dd",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "5600601373",
+      "kind": "checking",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 1020",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The TD Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_72C593",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "f74c2e51-1c9c-427e-bff6-dd60ff59c945",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "5600601366",
+      "kind": "checking",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 1013",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The TD Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_27A8AA",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "8b2d1b73-7864-4dbb-b994-f13bbb3299b3",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "5600601347",
+      "kind": "checking",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 994",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The TD Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_F8D02B",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "6c722c8a-3d5a-4211-af05-0786cf2ddf5e",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "5600601340",
+      "kind": "cc",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 987",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The TD Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_3545EC",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "f59d173b-e4e8-487a-b30d-3b0283bc5e28",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "5600601419",
+      "kind": " cc",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 1066",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The TD Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_2E1128",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "e54de70f-42e6-4a8a-9751-fb399f6c6179",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "83759969680",
+      "kind": "CURRENT PLUS",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 977",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The JMPC Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_04B500",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "4bd71735-8afd-42cf-a2f2-ad94d40a5f2f",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "5600601349",
+      "kind": "cc",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 996",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The TD Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_308F8E",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "2c745db8-0f55-4482-9d01-b2bf8f954aa3",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "5600601344",
+      "kind": "cc",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 991",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The TD Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_F2536F",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "7fa43ebe-1682-47ad-ad1a-9707df5522df",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "83759969683",
+      "kind": "CURRENT PLUS",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 977",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The JMPC Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_0ED6CC",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "8124e67d-fd89-422d-aef7-d1bf2adf14df",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "83759969682",
+      "kind": "CURRENT PLUS",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 977",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The JMPC Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_0D6CE7",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    },
+    {
+      "id": "386b8800-d58e-45f4-ae90-4e618b3bd3ca",
+      "holder": {
+        "name": "",
+        "is_alias": false
+      },
+      "number": "83759969681",
+      "kind": "CURRENT PLUS",
+      "IBAN": "BA12 1234 5123 4513 7599 6969 977",
+      "swift_bic": null,
+      "bank": {
+        "national_identifier": null,
+        "name": "The JMPC Bank"
+      },
+      "metadata": {
+        "public_alias": "ALIAS_E79480",
+        "private_alias": null,
+        "more_info": null,
+        "URL": null,
+        "image_URL": null,
+        "open_corporates_URL": null,
+        "corporate_location": null,
+        "physical_location": null
+      }
+    }
+  ]
+}

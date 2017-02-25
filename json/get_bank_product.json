@@ -1,0 +1,16 @@
+{
+  "code": "3ded-FDF",
+  "name": "TD Choice Individual Retirement Account Certificates of Deposit",
+  "category": "IRA",
+  "family": "Account",
+  "super_family": "Service",
+  "more_info_url": "https://www.tdbank.com/personal/cds.html",
+  "details": "",
+  "description": "",
+  "meta": {
+    "license": {
+      "id": "copyright2033",
+      "name": "Copyright"
+    }
+  }
+}

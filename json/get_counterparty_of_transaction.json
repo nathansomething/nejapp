@@ -1,0 +1,25 @@
+{
+  "id": "89bd161a-2a91-4d2a-9599-734d3a5d21cb",
+  "holder": {
+    "name": "Comcast",
+    "is_alias": false
+  },
+  "number": null,
+  "kind": null,
+  "IBAN": null,
+  "swift_bic": null,
+  "bank": {
+    "national_identifier": null,
+    "name": null
+  },
+  "metadata": {
+    "public_alias": null,
+    "private_alias": null,
+    "more_info": null,
+    "URL": null,
+    "image_URL": null,
+    "open_corporates_URL": null,
+    "corporate_location": null,
+    "physical_location": null
+  }
+}

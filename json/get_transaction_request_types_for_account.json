@@ -1,0 +1,14 @@
+{
+  "transaction_request_types": [
+    {
+      "value": "SANDBOX_TAN",
+      "charge": {
+        "summary": "Warning! Default value!",
+        "value": {
+          "currency": "USD",
+          "amount": "0.00"
+        }
+      }
+    }
+  ]
+}

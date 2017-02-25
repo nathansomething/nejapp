@@ -1,0 +1,308 @@
+{
+  "products": [
+    {
+      "code": "3ded-FDF",
+      "name": "TD Choice Individual Retirement Account Certificates of Deposit",
+      "category": "IRA",
+      "family": "Account",
+      "super_family": "Service",
+      "more_info_url": "https://www.tdbank.com/personal/cds.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2033",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "23ba-FD22",
+      "name": "TD Step Rate Certificates of Deposit",
+      "category": "Savings",
+      "family": "Account",
+      "super_family": "Service",
+      "more_info_url": "https://www.tdbank.com/personal/cds.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2032",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "23ba-FD21",
+      "name": "TD Choice Certificates of Deposit",
+      "category": "Savings",
+      "family": "Account",
+      "super_family": "Service",
+      "more_info_url": "https://www.tdbank.com/personal/cds.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2031",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "e401-DFD",
+      "name": "TD Aeroplan Visa Signature Credit Card",
+      "category": "Credit Cards",
+      "family": "Credit Card",
+      "super_family": "Lending",
+      "more_info_url": "https://www.tdbank.com/personalcreditcard/aeroplan.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2030",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "23ba-FD23",
+      "name": "TD Growth Money Market Savings",
+      "category": "Savings",
+      "family": "Account",
+      "super_family": "service",
+      "more_info_url": "https://www.tdbank.com/personal/growthmoneymarket.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2029",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "3d0c-SD4",
+      "name": "TD Premier Checking",
+      "category": "Current Accounts",
+      "family": "Account",
+      "super_family": "Service",
+      "more_info_url": "https://www.tdbank.com/personal/premierchecking_inc.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2028",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "ef52-AA",
+      "name": "Personal Unsecured Loan",
+      "category": "Loan",
+      "family": "Loan",
+      "super_family": "Lending",
+      "more_info_url": "https://www.tdbank.com/personal/personalunsecuredloan.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2027",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "3ded-FDF1",
+      "name": "TD Simple Savings Individual Retirement Account",
+      "category": "IRA",
+      "family": "Account",
+      "super_family": "Service",
+      "more_info_url": "https://www.tdbank.com/personal/iras.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2026",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "0e5c-F45",
+      "name": "TD Select Savings",
+      "category": "Savings",
+      "family": "Account",
+      "super_family": "Service",
+      "more_info_url": "https://www.tdbank.com/personal/selectsavings_inc.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2025",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "7f3d-FDS",
+      "name": "Adjustable Rate Mortgage",
+      "category": "Mortgage",
+      "family": "Mortgage",
+      "super_family": "Lending",
+      "more_info_url": "https://www.tdbank.com/mortgages/default.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2024",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "0dae-DS",
+      "name": "TD Cash Credit Card",
+      "category": "Credit Card",
+      "family": "Credit Card",
+      "super_family": "Lending",
+      "more_info_url": "https://www.tdbank.com/personalcreditcard/cashrewardscard.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2023",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "be7a-DFD",
+      "name": "TD EquityAccess PLUS",
+      "category": "Home Equity Line",
+      "family": "Mortgage",
+      "super_family": "Lending",
+      "more_info_url": "https://www.tdbank.com/mortgages/default.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2022",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "8ed0-FDFD",
+      "name": "TD Moneyline Overdraft Protection?",
+      "category": "Overdraft",
+      "family": "Loan",
+      "super_family": "Lending",
+      "more_info_url": "https://www.tdbank.com/personal/moneyline_odprotection.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2021",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "30f0-KJH",
+      "name": "TD Simple Savings",
+      "category": "Savings",
+      "family": "Account",
+      "super_family": "Service",
+      "more_info_url": "https://www.tdbank.com/personal/simplesavings.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2020",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "a24a-M55",
+      "name": "TD Convenience Checking",
+      "category": "Current Accounts",
+      "family": "Account",
+      "super_family": "Service",
+      "more_info_url": "https://www.tdbank.com/personal/conveniencechecking_inc.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2019",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "9499-JF",
+      "name": "TD Express Loan",
+      "category": "Loan",
+      "family": "Loan",
+      "super_family": "Lending",
+      "more_info_url": "https://www.tdbank.com/personal/tdexpressloan.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2018",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "b192-J87",
+      "name": "TD 1st Class Visa Signature Credit Card",
+      "category": "Credit Card",
+      "family": "Credit Card",
+      "super_family": "Lending",
+      "more_info_url": "https://www.tdbank.com/personalcreditcard/firstclassvisa.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2017",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "bcef-H44",
+      "name": "TD Simple Checking",
+      "category": "Current Accounts",
+      "family": "Account",
+      "super_family": "Service",
+      "more_info_url": "https://www.tdbank.com/personal/simplechecking_inc.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2016",
+          "name": "Copyright"
+        }
+      }
+    },
+    {
+      "code": "6056-M35",
+      "name": "Fixed Rate Mortgage",
+      "category": "Mortgage",
+      "family": "Mortgage",
+      "super_family": "Lending",
+      "more_info_url": "https://www.tdbank.com/mortgages/default.html",
+      "details": "",
+      "description": "",
+      "meta": {
+        "license": {
+          "id": "copyright2015",
+          "name": "Copyright"
+        }
+      }
+    }
+  ]
+}

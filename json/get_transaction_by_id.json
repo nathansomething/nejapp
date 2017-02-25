@@ -1,0 +1,66 @@
+{
+  "id": "b52a3465-d484-4b9a-97da-308188af7c0a",
+  "this_account": {
+    "id": "5237266",
+    "holders": [
+      {
+        "name": "katie.greely@gmail.com",
+        "is_alias": false
+      }
+    ],
+    "number": "5600601325",
+    "kind": "checking",
+    "IBAN": "BA12 1234 5123 4513 7599 6969 977",
+    "swift_bic": null,
+    "bank": {
+      "national_identifier": null,
+      "name": "The TD Bank"
+    }
+  },
+  "other_account": {
+    "id": "89bd161a-2a91-4d2a-9599-734d3a5d21cb",
+    "holder": {
+      "name": "Comcast",
+      "is_alias": false
+    },
+    "number": null,
+    "kind": null,
+    "IBAN": null,
+    "swift_bic": null,
+    "bank": {
+      "national_identifier": null,
+      "name": null
+    },
+    "metadata": {
+      "public_alias": null,
+      "private_alias": null,
+      "more_info": null,
+      "URL": null,
+      "image_URL": null,
+      "open_corporates_URL": null,
+      "corporate_location": null,
+      "physical_location": null
+    }
+  },
+  "details": {
+    "type": "10219",
+    "description": "Telecom",
+    "posted": "2016-03-12T00:00:00Z",
+    "completed": "2016-03-12T00:00:00Z",
+    "new_balance": {
+      "currency": "USD",
+      "amount": "7084.32"
+    },
+    "value": {
+      "currency": "USD",
+      "amount": "-1000.00"
+    }
+  },
+  "metadata": {
+    "narrative": null,
+    "comments": [],
+    "tags": [],
+    "images": [],
+    "where": null
+  }
+}

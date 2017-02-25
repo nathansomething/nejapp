@@ -1,0 +1,631 @@
+{
+  "transaction_requests_with_charges": [
+    {
+      "id": "90fe9fdb-2b80-45aa-84c6-e5fb170c0152",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "td-us-bank",
+          "account_id": "5237267"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "100.53"
+        },
+        "description": "Telecom"
+      },
+      "transaction_ids": [
+        "be6a8797-be20-4467-a36f-d9661d36eb02"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.010053"
+        }
+      }
+    },
+    {
+      "id": "e1b7bc5c-0eb1-4a51-9356-fd8c651dbe57",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "td-us-bank",
+          "account_id": "5237267"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "100.53"
+        },
+        "description": "Telecom"
+      },
+      "transaction_ids": [
+        "adc045a6-4835-41b3-9ef4-5b7731a64e17"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.010053"
+        }
+      }
+    },
+    {
+      "id": "803a97bb-b5e4-47fd-b65a-43cc6d52b8f1",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "td-us-bank",
+          "account_id": "5237281"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "20.53"
+        },
+        "description": "Refund"
+      },
+      "transaction_ids": [
+        "16c0a2c5-a462-4922-bd29-4804199c550f"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.002053"
+        }
+      }
+    },
+    {
+      "id": "89d0b40f-1229-44a2-8618-e5708592e48a",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "td-us-bank",
+          "account_id": "5237288"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "340"
+        },
+        "description": "Online transfers"
+      },
+      "transaction_ids": [
+        "9531cf46-2283-4e87-bb85-54932f0af274"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.034"
+        }
+      }
+    },
+    {
+      "id": "af195f82-9253-450b-87b1-92c5b8c76aab",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "td-us-bank",
+          "account_id": "5237307"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "370.13"
+        },
+        "description": "Online transfers"
+      },
+      "transaction_ids": [
+        "99a2a70b-5a00-4108-a105-c49fe472002a"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.037013"
+        }
+      }
+    },
+    {
+      "id": "3aefda86-37c4-4109-9554-400994e01866",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "td-us-bank",
+          "account_id": "5237314"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "120.50"
+        },
+        "description": "Funds Transfers"
+      },
+      "transaction_ids": [
+        "35deb245-d17a-4d3e-ba29-aa6f973a5c2a"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.01205"
+        }
+      }
+    },
+    {
+      "id": "4b385cd2-11bb-47ed-b3b0-3d0786f1d12f",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "td-us-bank",
+          "account_id": "5237304"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "26.53"
+        },
+        "description": "Refund"
+      },
+      "transaction_ids": [
+        "2a929063-9652-4e72-b13f-f777a739a88d"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.002653"
+        }
+      }
+    },
+    {
+      "id": "fe530da9-ea4a-4d04-b907-9eb1105731dd",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232455"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "100.53"
+        },
+        "description": "Telecom"
+      },
+      "transaction_ids": [
+        "038e05a4-1402-48c8-b143-a1b9c6ed6a0c"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.010053"
+        }
+      }
+    },
+    {
+      "id": "60fdd36f-4236-4ee4-8f30-197768adc11a",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232455"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "100.53"
+        },
+        "description": "Telecom"
+      },
+      "transaction_ids": [
+        "3146d8a9-09d9-4bc4-bd96-009a0f573c4b"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.010053"
+        }
+      }
+    },
+    {
+      "id": "38c0f620-d076-49b5-8d61-9c645e5a1a0f",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232455"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "100.53"
+        },
+        "description": "Telecom"
+      },
+      "transaction_ids": [
+        "df07f678-ff24-4b1f-8a6c-8eeb19ba597f"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.010053"
+        }
+      }
+    },
+    {
+      "id": "73956208-48cb-4505-a2c2-2709945df9a9",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232455"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "100.53"
+        },
+        "description": "Telecom"
+      },
+      "transaction_ids": [
+        "22c97576-fc06-491f-9120-c39323563a30"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.010053"
+        }
+      }
+    },
+    {
+      "id": "3e94bc49-57d2-4420-8636-32792f795b55",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232455"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "100.53"
+        },
+        "description": "Telecom"
+      },
+      "transaction_ids": [
+        "adab3a85-da55-43df-b8d6-0e77675d6e52"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.010053"
+        }
+      }
+    },
+    {
+      "id": "d390f875-d722-4c1c-9b9c-736a1b6a3dbb",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232455"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "100.53"
+        },
+        "description": "Telecom"
+      },
+      "transaction_ids": [
+        "115bfda6-19aa-4ba0-9bf7-fb6aaa995015"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-23T00:00:00Z",
+      "end_date": "2017-02-23T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.010053"
+        }
+      }
+    },
+    {
+      "id": "0c8e258a-575b-4378-a426-2a338355a12b",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232456"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "100"
+        },
+        "description": "Online Transfers"
+      },
+      "transaction_ids": [
+        "98c800ec-5e18-400e-9ce7-9fcc0e9775dd"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-24T00:00:00Z",
+      "end_date": "2017-02-24T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.01"
+        }
+      }
+    },
+    {
+      "id": "1b756196-c609-4a8c-9377-47447e4b7a68",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232457"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "122"
+        },
+        "description": "Online Transfers"
+      },
+      "transaction_ids": [
+        "713df6ee-5049-40f5-9cb2-2d91c0016168"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-24T00:00:00Z",
+      "end_date": "2017-02-24T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.0122"
+        }
+      }
+    },
+    {
+      "id": "87c25f06-9141-4507-be83-9ce12d76ea10",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232457"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "3"
+        },
+        "description": "Online Transfers"
+      },
+      "transaction_ids": [
+        "bba16d60-f98e-4836-81b7-4896d2e35776"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-24T00:00:00Z",
+      "end_date": "2017-02-24T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "3.0E-4"
+        }
+      }
+    },
+    {
+      "id": "63e26f86-aadc-4d08-88b8-ffdcc7dab205",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232458"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "273"
+        },
+        "description": "Online Transfers"
+      },
+      "transaction_ids": [
+        "f2a890e9-b4ad-4290-9d05-202fac037d55"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-24T00:00:00Z",
+      "end_date": "2017-02-24T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.0273"
+        }
+      }
+    },
+    {
+      "id": "5b2de58d-12a4-4ae3-8c70-43e5d410c335",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232455"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "93"
+        },
+        "description": "Online Transfers"
+      },
+      "transaction_ids": [
+        "d77b4bf9-3308-42cc-b938-147b2a9aad38"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-24T00:00:00Z",
+      "end_date": "2017-02-24T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.0093"
+        }
+      }
+    },
+    {
+      "id": "4d8f9e67-679c-48d7-9900-9d9fc5651309",
+      "type": "SANDBOX_TAN",
+      "from": {
+        "bank_id": "td-us-bank",
+        "account_id": "5237266"
+      },
+      "details": {
+        "to": {
+          "bank_id": "jmpc-us-bank",
+          "account_id": "122232455"
+        },
+        "value": {
+          "currency": "USD",
+          "amount": "20"
+        },
+        "description": "Bill Payment"
+      },
+      "transaction_ids": [
+        "30174d37-4b3a-4a2b-9136-6251fb24d3ac"
+      ],
+      "status": "COMPLETED",
+      "start_date": "2017-02-24T00:00:00Z",
+      "end_date": "2017-02-24T00:00:00Z",
+      "challenge": null,
+      "charge": {
+        "summary": "Total charges for completed transaction",
+        "value": {
+          "currency": "USD",
+          "amount": "0.002"
+        }
+      }
+    }
+  ]
+}

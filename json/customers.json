@@ -1,0 +1,35 @@
+[
+  {
+    "customer_id": "ad6ec768-74eb-4fd1-a8f2-3950f577b0a0",
+    "customer_number": "106",
+    "legal_name": "Katherine Greely",
+    "mobile_phone_number": "16173092928",
+    "email": "katie.greely@gmail.com",
+    "date_of_birth": "1991-12-13T00:00:00Z",
+    "relationship_status": "single",
+    "dependants": 0,
+    "credit_rating": "678"
+  },
+  {
+    "customer_id": "d83357d5-deb8-4042-8d7c-258b10f6ae69",
+    "customer_number": "224",
+    "legal_name": "Kraig Leeman",
+    "mobile_phone_number": "12129877068",
+    "email": "kraig450@gmail.com",
+    "date_of_birth": "1970-12-31T00:00:00Z",
+    "relationship_status": "married",
+    "dependants": 3,
+    "credit_rating": "790"
+  },
+  {
+    "customer_id": "32ab762e-4444-4d4b-90e8-8fc172c3b9f5",
+    "customer_number": "243",
+    "legal_name": "Charley Matte",
+    "mobile_phone_number": "19072938372",
+    "email": "charley_m@yahoo.com",
+    "date_of_birth": "1949-09-30T00:00:00Z",
+    "relationship_status": "married",
+    "dependants": 0,
+    "credit_rating": "578"
+  }
+]
