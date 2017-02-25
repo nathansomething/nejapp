@@ -6,9 +6,11 @@ import 'rxjs/add/operator/toPromise';
 @Injectable()
 export class CustomerService {
 
+  customers:Customer[];
+
   constructor(private http : Http) { }
 
-  getAllCustomers() : Promise<Customer[]> {
+  getCustomers() : Promise<Customer[]> {
     return this.http.get('../json/customers.json', {headers: this.getHeaders()})
                         .toPromise().then(response => response.json() as Customer[])
                         .catch(this.handleError);

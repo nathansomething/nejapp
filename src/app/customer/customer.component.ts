@@ -14,27 +14,22 @@ export class CustomerComponent implements OnInit {
   customer:Customer;
   customers:Customer[];
 
-  constructor(private customerService:CustomerService) {
+  constructor(private customerService:CustomerService) { }
 
-  }
+  // getAllCustomers():void {
+  //   this.customerService.getCustomers().then(customers => this.customers = customers);
+  // }
 
-  getCustomers():Promise<Customer[]> {
-    return this.customerService.getAllCustomers().then(customers => this.customers = customers);
-  }
-
-  getCustomerById(id:string):Customer {
-    for (let customer of this.customers) {
-      if (customer.customer_id == id) {
-        return customer;
-      }
-    }
+  getCustomerById(customer_id:string):void {
+    this.customerService.getCustomers().then(
+      customers => this.customer = customers.filter(
+        customer => customer.customer_id = customer_id)[0]
+      );
   }
 
   ngOnInit():void {
-    let root = this;
-    this.getCustomers().then(function() {
-      root.customer = root.getCustomerById(root.customer_id);
-    })
+    // this.getAllCustomers();
+    this.getCustomerById(this.customer_id);
   }
 
 }
