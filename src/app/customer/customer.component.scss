@@ -18,11 +18,19 @@ box-view {
       border-radius: 50px;
       border: 1px solid $border_color;
     }
+
+    ul {
+
+      li {
+        font-size: 20px;
+      }
+    }
   }
 
-  table#accounts-table {
+  table {
     margin: 0 auto;
     padding: 5px;
+    width: 400px;
 
     th {
       text-decoration: underline;
@@ -31,21 +39,25 @@ box-view {
 
     td {
 
-      margin: 5px;
+      margin: 15px;
       padding: 5px;
+      border-radius: 5px;
       font-size: 20px;
       text-align: center;
 
-      &.account-type {
+      &.green-medium-field {
         background-color: $green_medium_button_color;
-        border-radius: 5px;
         color: $white_text;
       }
 
-      &.account-balance, &.account-number {
+      &.gray-field {
         background-color: $gray_button_color;
-        border-radius: 5px;
         color: $black_text;
+      }
+
+      &.green-medium-dark-field {
+        background-color: $green_medium_dark_button_color;
+        color: $white_text;
       }
     }
   }

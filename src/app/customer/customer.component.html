@@ -24,9 +24,21 @@
       <th># Products</th>
     </tr>
     <tr *ngFor="let account of accounts">
-      <td class="account-type">{{account.type}}</td>
-      <td class="account-balance">{{account.balance}}</td>
-      <td class="account-number">{{account.number}}</td>
+      <td class="green-medium-field">{{account.type}}</td>
+      <td class="gray-field">{{account.balance}}</td>
+      <td class="gray-field">{{account.number}}</td>
+    </tr>
+  </table>
+</box-view>
+<box-view title="Credit Information" *ngIf="customer">
+  <table id="credit-table">
+    <tr>
+      <td class="green-medium-dark-field">Credit Score</td>
+      <td colspan="2" class="gray-field" [style.background-color]="getCreditRatingColor()">{{customer.credit_rating}}</td>
+    </tr>
+    <tr>
+      <td class="green-medium-dark-field">Credit Limit</td>
+      <td colspan="2" class="gray-field">{{customer.credit_limit}}</td>
     </tr>
   </table>
 </box-view>

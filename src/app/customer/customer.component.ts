@@ -23,6 +23,16 @@ export class CustomerComponent implements OnInit {
                 this.accounts = [];
   }
 
+  getCreditRatingColor():string {
+    if (this.customer.credit_rating > 750) {
+      return "#339933";
+    }
+    if (this.customer.credit_rating < 640) {
+      return "#ff9999";
+    }
+    return "#ffff66";
+  }
+
   getCustomerById(customer_id:string):Promise<Customer> {
     return this.customerService.getCustomers().then(
       customers => this.customer = customers.filter(
