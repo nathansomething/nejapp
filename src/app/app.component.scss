@@ -1,0 +1,14 @@
+main {
+
+  customer-panel {
+    display: flex;
+    flex-direction: column;
+    float: left;
+  }
+
+  query-interface {
+    display: flex;
+    flex-direction: column;
+    float: right;
+  }
+}

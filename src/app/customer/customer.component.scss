@@ -1,19 +1,52 @@
 @import '../../sass_partials/colors';
 
-div {
+box-view {
 
-  &.img-container {
-    float: left;
+  div {
+
+    &.img-container {
+      float: left;
+    }
+
+    &.text-container {
+      float: right;
+    }
+
+    img {
+      width: 200px;
+      height: 200px;
+      border-radius: 50px;
+      border: 1px solid $border_color;
+    }
   }
 
-  &.text-container {
-    float: right;
-  }
+  table#accounts-table {
+    margin: 0 auto;
+    padding: 5px;
 
-  img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50px;
-    border: 1px solid $border_color;
+    th {
+      text-decoration: underline;
+      font-size: 20px;
+    }
+
+    td {
+
+      margin: 5px;
+      padding: 5px;
+      font-size: 20px;
+      text-align: center;
+
+      &.account-type {
+        background-color: $green_medium_button_color;
+        border-radius: 5px;
+        color: $white_text;
+      }
+
+      &.account-balance, &.account-number {
+        background-color: $gray_button_color;
+        border-radius: 5px;
+        color: $black_text;
+      }
+    }
   }
 }

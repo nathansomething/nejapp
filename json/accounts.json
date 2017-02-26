@@ -3,56 +3,120 @@
 		"id": "5237341",
 		"legal_name": "Tammy Patterson",
 		"number": "5600601400",
-		"type": "checking",
-		"balance": 76711.00
+		"type": "Checking",
+		"balance": 76711.00,
+    "number": 1
 	},
   {
 		"id": "5237266",
 		"legal_name": "Tammy Patterson",
 		"number": "5600601325",
-		"type": "saving",
-		"balance": 6354.39
+		"type": "Saving",
+		"balance": 6354.39,
+    "number": 1
 	},
   {
 		"id": "5237267",
 		"legal_name": "Tammy Patterson",
 		"number": "5600601326",
-		"type": "cc",
-		"balance": 8480.38
+		"type": "Credit",
+		"balance": 8480.38,
+    "number": 1
 	},
   {
 		"id": "5237293",
 		"legal_name": "Phillip Reynolds",
 		"number": "5600601352",
-		"type": "cc",
-		"balance": 29083.00
+		"type": "Checking",
+		"balance": 0,
+    "number": 0
 	},
+  {
+    "id": "5237294",
+    "legal_name": "Phillip Reynolds",
+    "number": "5600601352",
+    "type": "Saving",
+    "balance": 0,
+    "number": 0
+  },
+  {
+    "id": "5237295",
+    "legal_name": "Phillip Reynolds",
+    "number": "5600601352",
+    "type": "Credit",
+    "balance": 29083.00,
+    "number": 1
+  },
   {
     "id": "5237269",
     "label": "Freda Veracruz",
     "number": "5600601328",
-    "type": "saving",
-    "balance": "7780.32"
+    "type": "Checking",
+    "balance": 0,
+    "number": 0
+  },
+  {
+    "id": "5237217",
+    "label": "Freda Veracruz",
+    "number": "5600601328",
+    "type": "Saving",
+    "balance": 7780.32,
+    "number": 1
   },
   {
     "id": "5237270",
     "label": "Freda Veracruz",
     "number": "5600601329",
-    "type": "cc",
-    "balance": "6883.33"
+    "type": "Credit",
+    "balance": 6883.33,
+    "number": 1
+  },
+  {
+    "id": "5237272",
+    "label": "Roy Fletcher",
+    "number": "5600601330",
+    "type": "Checking",
+    "balance": 0,
+    "number": 0
+  },
+  {
+    "id": "5237273",
+    "label": "Roy Fletcher",
+    "number": "5600601330",
+    "type": "Savings",
+    "balance": 0,
+    "number": 0
   },
   {
     "id": "5237271",
     "label": "Roy Fletcher",
     "number": "5600601330",
-    "type": "cc",
-    "balance": "5913.32"
+    "type": "Credit",
+    "balance": 5913.32,
+    "number": 1
   },
   {
     "id": "5237274",
     "legal_name": "Jonelle Grove",
     "number": "5600601333",
-    "type": "checking",
-    "balance": "7952.32"
+    "type": "Checking",
+    "balance": 7952.32,
+    "number": 1
+  },
+  {
+    "id": "5237274",
+    "legal_name": "Jonelle Grove",
+    "number": "5600601333",
+    "type": "Saving",
+    "balance": 0,
+    "number": 0
+  },
+  {
+    "id": "5237274",
+    "legal_name": "Jonelle Grove",
+    "number": "5600601333",
+    "type": "Credit",
+    "balance": 0,
+    "number": 0
   }
 ]

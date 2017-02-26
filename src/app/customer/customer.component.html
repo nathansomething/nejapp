@@ -16,5 +16,17 @@
     </ul>
   </div>
 </box-view>
-<box-view title="Financial Information" *ngIf="account">
+<box-view title="Financial Information" *ngIf="accounts">
+  <table id="accounts-table">
+    <tr>
+      <th>Account</th>
+      <th>Amount ($K)</th>
+      <th># Products</th>
+    </tr>
+    <tr *ngFor="let account of accounts">
+      <td class="account-type">{{account.type}}</td>
+      <td class="account-balance">{{account.balance}}</td>
+      <td class="account-number">{{account.number}}</td>
+    </tr>
+  </table>
 </box-view>

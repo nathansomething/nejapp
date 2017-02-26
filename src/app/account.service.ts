@@ -1,16 +1,16 @@
 import { Injectable } from '@angular/core';
-import { Customer } from '../pojo/customer';
+import { Account } from '../pojo/account';
 import { Http, Headers, Response } from '@angular/http';
 import 'rxjs/add/operator/toPromise';
 
 @Injectable()
-export class CustomerService {
+export class AccountService {
 
   constructor(private http : Http) { }
 
-  getCustomers() : Promise<Customer[]> {
-    return this.http.get('../json/customers.json', {headers: this.getHeaders()})
-                        .toPromise().then(response => response.json() as Customer[])
+  getAccounts():Promise<Account[]> {
+    return this.http.get('../json/accounts.json', {headers: this.getHeaders()})
+                        .toPromise().then(response => response.json() as Account[])
                         .catch(this.handleError);
   }
 
