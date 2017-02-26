@@ -7,13 +7,15 @@ import { CustomerService } from './customer.service';
 import { CustomerComponent } from './customer/customer.component';
 import { QueryInterfaceComponent } from './query-interface/query-interface.component';
 import { BoxViewComponent } from './box-view/box-view.component';
+import { BoxButtonComponent } from './box-button/box-button.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CustomerComponent,
     QueryInterfaceComponent,
-    BoxViewComponent
+    BoxViewComponent,
+    BoxButtonComponent
   ],
   imports: [
     BrowserModule,

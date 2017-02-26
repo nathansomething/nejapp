@@ -1,8 +1,10 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { CustomerService } from '../customer.service';
 import { AccountService } from '../account.service';
+import { QueryService } from '../query.service';
 import { Customer } from '../../pojo/customer';
 import { Account } from '../../pojo/account';
+import { Subscription } from 'rxjs/Subscription';
 
 import 'rxjs/add/operator/toPromise';
 
@@ -10,17 +12,20 @@ import 'rxjs/add/operator/toPromise';
   selector: 'customer-panel',
   templateUrl: './customer.component.html',
   styleUrls: ['./customer.component.scss'],
-  providers: [ CustomerService, AccountService ]
+  providers: [ CustomerService, AccountService, QueryService ]
 })
 export class CustomerComponent implements OnInit {
 
   @Input('customer-id') customer_id:string;
   customer:Customer;
   accounts:Account[];
+  subscription:Subscription;
+  state:string;
 
   constructor(private customerService:CustomerService,
-              private accountService:AccountService) {
-                this.accounts = [];
+              private accountService:AccountService,
+              private queryService:QueryService) {
+    this.accounts = [];
   }
 
   getCreditRatingColor():string {
@@ -57,6 +62,13 @@ export class CustomerComponent implements OnInit {
         }
       }
     );
+    this.subscription = this.queryService.state
+       .subscribe(state => this.state = state);
+  }
+
+  ngOnDestroy() {
+    // prevent memory leak when component is destroyed
+    this.subscription.unsubscribe();
   }
 
 }

@@ -16,7 +16,9 @@ box-view {
       width: 200px;
       height: 200px;
       border-radius: 50px;
-      border: 1px solid $border_color;
+      border: 1px solid $cell_color;
+      background-color: $white_text;
+      box-shadow: 0 0 10px #AAA;
     }
 
     ul {
@@ -31,15 +33,17 @@ box-view {
     margin: 0 auto;
     padding: 5px;
     width: 400px;
+    border-collapse: separate;
 
     th {
       text-decoration: underline;
       font-size: 20px;
+      margin: 15px;
+      padding: 5px;
     }
 
     td {
-
-      margin: 15px;
+      margin: 5px;
       padding: 5px;
       border-radius: 5px;
       font-size: 20px;

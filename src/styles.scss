@@ -1,7 +1,18 @@
 @import 'sass_partials/colors';
 @import 'sass_partials/fonts';
 
-body {
-  background-color: $background_color;
-  font-family: $main_font;
+html {
+
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+  body {
+    background-color: $background_color;
+    font-family: $main_font;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+  }
 }

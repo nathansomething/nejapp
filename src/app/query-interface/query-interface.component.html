@@ -1,1 +1,12 @@
-<box-view>query-interface works!</box-view>
+<box-view title="Employee Reminder">
+  <p>{{employee_reminders[state]}}</p>
+</box-view>
+<box-view title="Employee Script">
+  <p>{{employee_scripts[state]}}</p>
+</box-view>
+<span *ngFor="let button of buttons">
+  <box-button [color]="button.color"
+              [rounded]="button.rounded"
+              (click)="changeState(button.state_name)">{{button.text}}</box-button>
+</span>
+<box-button (click)="changeState('init')" [color]="gray">RESET</box-button>

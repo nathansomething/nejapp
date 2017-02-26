@@ -1,14 +1,18 @@
 main {
 
   customer-panel {
+    margin-left: 20px;
     display: flex;
     flex-direction: column;
     float: left;
+    justify-content: center;
   }
 
   query-interface {
+    margin-right: 20px;
     display: flex;
     flex-direction: column;
     float: right;
+    justify-content: center;
   }
 }
